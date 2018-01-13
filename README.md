@@ -3,6 +3,6 @@ Really scrappy HoloLens app to look at people, recognize them with Facebook's fa
 
 Small python server takes image uploads, adds them to your facebook account, finds friends tagged in the images, and returns the names. 
 
-HoloLens app continually takes pictures and sends them to this server (not hosted anywhere, using ngrok.io) and uses the returned name to display. 
+HoloLens app continually takes pictures and sends them to this server (not hosted anywhere, using ngrok.io) and uses the returned name to display on virtual pane. 
 
 Shows that the premise works, but needs a lot of improvement - last updated June 2017
